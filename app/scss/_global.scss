@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+a, button {
+    cursor: pointer;
+}
+
+.container {
+    max-width: 1220px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0 40px;
+}
+
+body {
+    background-color: $body-bg;
+    color: $section-title-color;
+}
